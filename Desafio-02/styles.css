@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: verdana;
+  background: #EAEDED;
+}
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.animation{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  box-shadow: 0 4px 0 #1F618D;
+  background: transparent;
+  animation: animate 0.7s linear infinite;
+}
+
+.text{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  color: #2980B9;
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  line-height: 300px;
+  font-size: 2em;
+  letter-spacing: 5px;
+  background: transparent;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+ 
+}
+@keyframes animate{
+  0%{
+    transform: rotate(0deg);
+  }
+    100%{
+      transform: rotate(300deg);
+    }    
+}
+
+footer{
+  position: absolute;
+  top: 90%;
+  left: 45%;
+  text-align: center;
+  color: #04253b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
