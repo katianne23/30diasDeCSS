@@ -15,3 +15,17 @@ Sugestão de desafios:
 
 ##### Resultado:
 [Desafio 01](https://katianne23.github.io/30diasDeCSS/Desafio-01/)
+
+## Desafio 02:
+#### Criação de um Loading animado
+##### Aprendizagens:
+- Utilizar animações
+- Regra @keyframes 
+- Duração de um animação, propriedade: animation-duration
+- Quantas vezes a animação deve ser executada, propriedade:  animation-iteration-count
+- Direção de um animação, propriedade: animation-direction
+- Curva de direção da animação, propriedade: animation-timing-function
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+
+##### Resultado:
+[Desafio 02](https://katianne23.github.io/30diasDeCSS/Desafio-02/)
