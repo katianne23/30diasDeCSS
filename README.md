@@ -29,3 +29,18 @@ Sugestão de desafios:
 
 ##### Resultado:
 [Desafio 02](https://katianne23.github.io/30diasDeCSS/Desafio-02/)
+
+## Desafio 03:
+#### Mudança de cor de texto quanto entra em outra div
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [Overflow](https://www.w3schools.com/css/css_overflow.asp)
+- Propriedades Overflow:
+- - visible: O conteúdo é renderizado fora da caixa do elemento;
+- - hidden: O estouro é cortado e o restante do conteúdo ficará invisível;
+- - Scroll: O estouro é cortado e uma barra de rolagem é adicionada para ver o restante do conteúdo;
+- - auto: Semelhante a scroll, mas adiciona barras de rolagem apenas quando necessário
+
+
+##### Resultado:
+[Desafio 02](https://katianne23.github.io/30diasDeCSS/Desafio-03/)
