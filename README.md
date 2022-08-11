@@ -1,5 +1,5 @@
 
-### 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3
+### 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3 🚀 🚀 
 
 Sugestão de desafios:
 [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS.git).
@@ -43,4 +43,4 @@ Sugestão de desafios:
 
 
 ##### Resultado:
-[Desafio 02](https://katianne23.github.io/30diasDeCSS/Desafio-03/)
+[Desafio 03](https://katianne23.github.io/30diasDeCSS/Desafio-03/)
