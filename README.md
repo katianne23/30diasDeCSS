@@ -44,3 +44,16 @@ Sugestão de desafios:
 
 ##### Resultado:
 [Desafio 03](https://katianne23.github.io/30diasDeCSS/Desafio-03/)
+
+## Desafio 04:
+#### Efeito Hover 
+##### Aprendizagens:
+- [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
+- [After](https://www.w3schools.com/cssref/sel_after.asp)
+- [Before](https://www.w3schools.com/cssref/sel_before.asp)
+ 
+
+##### Resultado:
+[Desafio 04](https://katianne23.github.io/30diasDeCSS/Desafio-04/)
