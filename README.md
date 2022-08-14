@@ -56,7 +56,7 @@ Sugestão de desafios:
  
 
 ##### Resultado:
-[Desafio 04](https://katianne23.github.io/30diasDeCSS/Desafio-05/)
+[Desafio 04](https://katianne23.github.io/30diasDeCSS/Desafio-04/)
 
 ## Desafio 05:
 #### Efeito Pulsar 
@@ -65,4 +65,4 @@ Sugestão de desafios:
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp) 
 
 ##### Resultado:
-[Desafio 05](https://katianne23.github.io/30diasDeCSS/Desafio-04/)
+[Desafio 05](https://katianne23.github.io/30diasDeCSS/Desafio-05/)
