@@ -75,3 +75,12 @@ Sugestão de desafios:
 
 ##### Resultado:
 [Desafio 06](https://katianne23.github.io/30diasDeCSS/Desafio-06/)
+
+## Desafio 07:
+#### Preloader Animado
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+
+##### Resultado:
+[Desafio 07](https://katianne23.github.io/30diasDeCSS/Desafio-07/)
