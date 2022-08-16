@@ -63,6 +63,8 @@ Sugestão de desafios:
 ##### Aprendizagens:
 - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp) 
+- [After](https://www.w3schools.com/cssref/sel_after.asp)
+- [Before](https://www.w3schools.com/cssref/sel_before.asp)
 
 ##### Resultado:
 [Desafio 05](https://katianne23.github.io/30diasDeCSS/Desafio-05/)
@@ -84,3 +86,14 @@ Sugestão de desafios:
 
 ##### Resultado:
 [Desafio 07](https://katianne23.github.io/30diasDeCSS/Desafio-07/)
+
+## Desafio 08:
+#### Estrela Piscante ⭐
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [After](https://www.w3schools.com/cssref/sel_after.asp)
+- [Before](https://www.w3schools.com/cssref/sel_before.asp)
+
+##### Resultado:
+[Desafio 08](https://katianne23.github.io/30diasDeCSS/Desafio-08/)
