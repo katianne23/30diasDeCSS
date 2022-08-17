@@ -97,3 +97,15 @@ Sugestão de desafios:
 
 ##### Resultado:
 [Desafio 08](https://katianne23.github.io/30diasDeCSS/Desafio-08/)
+
+## Desafio 00:
+#### Pendulo de Newton
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [After](https://www.w3schools.com/cssref/sel_after.asp)
+- [Before](https://www.w3schools.com/cssref/sel_before.asp)
+- [last-child](https://www.w3schools.com/cssref/sel_last-child.asp)
+- [first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)
+
+##### Resultado:
+[Desafio 09](https://katianne23.github.io/30diasDeCSS/Desafio-09/)
