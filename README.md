@@ -98,7 +98,7 @@ Sugestão de desafios:
 ##### Resultado:
 [Desafio 08](https://katianne23.github.io/30diasDeCSS/Desafio-08/)
 
-## Desafio 00:
+## Desafio 09:
 #### Pendulo de Newton
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -109,3 +109,13 @@ Sugestão de desafios:
 
 ##### Resultado:
 [Desafio 09](https://katianne23.github.io/30diasDeCSS/Desafio-09/)
+
+## Desafio 10:
+#### Animação alternando textos de Saudações! 
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [Before](https://www.w3schools.com/cssref/sel_before.asp)
+
+
+##### Resultado:
+[Desafio 10](https://katianne23.github.io/30diasDeCSS/Desafio-10/)
