@@ -61,7 +61,7 @@ Sugestão de desafios:
 ## Desafio 05:
 #### Efeito Pulsar 
 ##### Aprendizagens:
-- [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+c
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp) 
 - [After](https://www.w3schools.com/cssref/sel_after.asp)
 - [Before](https://www.w3schools.com/cssref/sel_before.asp)
@@ -119,3 +119,13 @@ Sugestão de desafios:
 
 ##### Resultado:
 [Desafio 10](https://katianne23.github.io/30diasDeCSS/Desafio-10/)
+
+## Desafio 11:
+#### Card com efeito de foco no texto, e com animação flutuante.  
+##### Aprendizagens:
+- [Transições CSS](https://www.w3schools.com/css/css3_transitions.asp)
+- [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
+
+
+##### Resultado:
+[Desafio 11](https://katianne23.github.io/30diasDeCSS/Desafio-11/)
