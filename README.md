@@ -129,3 +129,14 @@ c
 
 ##### Resultado:
 [Desafio 11](https://katianne23.github.io/30diasDeCSS/Desafio-11/)
+
+## Desafio 12:
+#### Card com efeito de foco no texto, e com animação flutuante.  
+##### Aprendizagens:
+- [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
+- [Filter](https://www.w3schools.com/cssref/css3_pr_filter.asp)
+- [Animation-Delay](https://www.w3schools.com/cssref/css3_pr_animation-delay.asp)
+
+
+##### Resultado:
+[Desafio 12](https://katianne23.github.io/30diasDeCSS/Desafio-12/)
