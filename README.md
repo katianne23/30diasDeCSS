@@ -131,7 +131,7 @@ c
 [Desafio 11](https://katianne23.github.io/30diasDeCSS/Desafio-11/)
 
 ## Desafio 12:
-#### Card com efeito de foco no texto, e com animação flutuante.  
+#### Animação de texto fantasma em hover 
 ##### Aprendizagens:
 - [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
 - [Filter](https://www.w3schools.com/cssref/css3_pr_filter.asp)
