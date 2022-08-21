@@ -17,7 +17,7 @@ Sugestão de desafios:
 [Desafio 01](https://katianne23.github.io/30diasDeCSS/Desafio-01/)
 
 ## Desafio 02:
-#### Criação de um Loading animado
+#### Criação de um Loader animado
 ##### Aprendizagens:
 - Utilizar animações
 - Regra @keyframes 
