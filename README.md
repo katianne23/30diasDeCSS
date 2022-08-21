@@ -140,3 +140,13 @@ c
 
 ##### Resultado:
 [Desafio 12](https://katianne23.github.io/30diasDeCSS/Desafio-12/)
+
+## Desafio 13:
+#### Loading com efeitos 
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+
+
+##### Resultado:
+[Desafio 13](https://katianne23.github.io/30diasDeCSS/Desafio-13/)
