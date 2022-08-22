@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+body{
+  background: linear-gradient(0, #8d88be, #3d3838);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+h1{
+  font-size: 200px;
+  text-align: center;
+  text-transform: uppercase;
+  background: url(img.jpg);
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: background-text 18s linear infinite;
+}
+
+@keyframes background-text{
+  from {
+    background-position: 0 0;
+  }
+    to {
+      background-position: 100% 100%;
+    }
+}
+footer{
+  position: absolute;
+  top: 90%;
+  left: 45%;
+  text-align: center;
+  color: #160f18;
+}
