@@ -150,3 +150,13 @@ c
 
 ##### Resultado:
 [Desafio 13](https://katianne23.github.io/30diasDeCSS/Desafio-13/)
+
+## Desafio 14:
+#### Background de texto animado! 
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)
+
+
+##### Resultado:
+[Desafio 14](https://katianne23.github.io/30diasDeCSS/Desafio-14/)
