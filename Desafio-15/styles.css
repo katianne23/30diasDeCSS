@@ -24,16 +24,12 @@ h1{
                0 3px 0 #fff0ff,
                0 4px 0 #fff0ff,
                0 30px 5px rgba(0, 0,0, .2);
-  animation: float 3s linear infinite;
-  animation-direction: alternate;
+  animation: float 3s reverse;
 }
 
 @keyframes float{
   from{
     transform: rotate(360deg);
-  }
-  to{
-    tranform: rotate(-360deg);
   }
 }
 
