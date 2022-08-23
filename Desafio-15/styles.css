@@ -32,6 +32,9 @@ h1{
   from{
     transform: rotate(360deg);
   }
+  to{
+    tranform: rotate(-360deg);
+  }
 }
 
 footer{
