@@ -24,8 +24,8 @@ h1{
                0 3px 0 #fff0ff,
                0 4px 0 #fff0ff,
                0 30px 5px rgba(0, 0,0, .2);
-  animation: float 3s reverse;
-  animation-direction: alternate;
+  animation: float 7s linear infinite;
+  animation-direction: reverse;
 }
 
 @keyframes float{
