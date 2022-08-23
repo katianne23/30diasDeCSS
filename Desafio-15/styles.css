@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #cbd0ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1{
+  text-align: center;
+  color: #181934;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 90px;
+  line-height: 90px;
+  letter-spacing: 15px;
+  text-transform: uppercase;
+  text-shadow: 0 1px 0 #fff0ff,
+               0 2px 0 #fff0ff,
+               0 3px 0 #fff0ff,
+               0 4px 0 #fff0ff,
+               0 30px 5px rgba(0, 0,0, .2);
+  animation: float 3s reverse;
+}
+
+@keyframes float{
+  from{
+    transform: rotate(360deg);
+  }
+}
+
+footer{
+  position: absolute;
+  top: 90%;
+  left: 45%;
+  text-align: center;
+  color:  #181934;
+}
