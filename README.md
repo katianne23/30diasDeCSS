@@ -170,3 +170,16 @@ c
 
 ##### Resultado:
 [Desafio 15](https://katianne23.github.io/30diasDeCSS/Desafio-15/)
+
+## Desafio 16:
+#### Button com efeito hover! 
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
+- [Before](https://www.w3schools.com/cssref/sel_before.asp)
+- [box-shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
+
+
+##### Resultado:
+[Desafio 16](https://katianne23.github.io/30diasDeCSS/Desafio-16/)
