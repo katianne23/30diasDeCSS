@@ -196,3 +196,16 @@ c
 
 ##### Resultado:
 [Desafio 17](https://katianne23.github.io/30diasDeCSS/Desafio-17/)
+
+
+## Desafio 18:
+#### Texto com efeito esfumaçado 
+##### Aprendizagens:
+- [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
+
+
+
+##### Resultado:
+[Desafio 18](https://katianne23.github.io/30diasDeCSS/Desafio-18/)
