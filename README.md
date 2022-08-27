@@ -211,7 +211,7 @@ c
 [Desafio 18](https://katianne23.github.io/30diasDeCSS/Desafio-18/)
 
 ## Desafio 19:
-#### Texto com efeito esfumaçado 
+#### Background animado com efeito estrelado
 ##### Aprendizagens:
 - [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
