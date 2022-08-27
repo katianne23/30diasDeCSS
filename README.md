@@ -209,3 +209,16 @@ c
 
 ##### Resultado:
 [Desafio 18](https://katianne23.github.io/30diasDeCSS/Desafio-18/)
+
+## Desafio 19:
+#### Texto com efeito esfumaçado 
+##### Aprendizagens:
+- [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+
+
+
+
+##### Resultado:
+[Desafio 19](https://katianne23.github.io/30diasDeCSS/Desafio-19/)
