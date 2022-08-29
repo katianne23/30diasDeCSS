@@ -231,3 +231,13 @@ c
 
 ##### Resultado:
 [Desafio 20](https://katianne23.github.io/30diasDeCSS/Desafio-20/)
+
+## Desafio 21:
+#### Criação de uma bola com animação de quicar
+##### Aprendizagens:
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+
+
+##### Resultado:
+[Desafio 21](https://katianne23.github.io/30diasDeCSS/Desafio-21/)
