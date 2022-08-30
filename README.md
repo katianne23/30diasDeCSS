@@ -241,3 +241,14 @@ c
 
 ##### Resultado:
 [Desafio 21](https://katianne23.github.io/30diasDeCSS/Desafio-21/)
+
+## Desafio 22:
+#### Criação de circulos com efeito hover
+##### Aprendizagens:
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+- [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
+
+
+##### Resultado:
+[Desafio 22](https://katianne23.github.io/30diasDeCSS/Desafio-22/)
