@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(90deg, rgba(240,141,59,1) 0%, rgba(81,123,219,1) 50%, rgba(195,185,36,1) 100%);
+  color: #fff;
+}
+
+.circulo{
+  list-style: none;
+  text-align: center;
+}
+.circulo li{
+  width: 220px;
+  height: 220px;
+  display: inline-block;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.circulo li:nth-child(1) .circulo-item{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8Gu_e2Z_cmjPzI96Ain0DuWFbznrx6qWcNfCkEjhBohFp2OtJ9qFcijLI8BBBM4pfPs&usqp=CAU');
+}
+.circulo li:nth-child(2) .circulo-item{
+  background :url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ8ddk93jvJARc9_2SzOXd5Tzvsf4MNMieCA3jLP2Tht8o-PHxbwdx2_OXfAU01yXvoGU&usqp=CAU')
+}
+.circulo li:nth-child(3) .circulo-item{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_eyD2LIgCAV0pdKcxQqXdZltsShK_-mZ6zg&usqp=CAU');
+}
+
+.circulo-item{
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  box-shadow: inset 0 0 16px rgba(26, 24, 24, 0.6);
+  position: relative;
+  transition: all .4s case-in-out;
+  -webkit-transition: all .4s ease-in-out;
+}
+
+.circulo-info{
+  position: absolute;
+  width: inherit;
+  height: inherit;
+  border-radius: 50%;
+  background: rgba(73, 107, 107, 0.9);  
+  transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transform: scale(0);
+  -webkit-transform: scale(0);
+  opacity: 0;
+}
+.circulo-info h2{ 
+  font-size: 22px;
+  text-transform: uppercase;
+  margin: 0 30px;
+  padding: 45px 0 0 0;
+}
+.circulo-info p{ 
+  font-size: 14px;
+  font-style: italic;
+  border-top: 1px solid #eee;
+  padding: 10px 5px;
+  margin: 0 30px;
+  opacity: 0;
+  transition: all 1s ease-in-out 0.4s;
+  -webkit-transition: all 1s ease-in-out 0.4s;
+}
+.circulo-info p a{ 
+  color: #eee;
+  display: block;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.circulo-info p a:hover{ 
+  color: #fff222;
+}
+
+.circulo-item:hover{
+  box-shadow: inset 0 0 0 0 rgba(255,255,255,.6);
+}
+.circulo-item:hover .circulo-info{
+  transform: scale(1);
+  -webkit-transform: scale(1);
+  opacity: 1;
+}
+.circulo-item:hover .circulo-info p{
+  opacity: 1;
+}
+footer{
+  position: absolute;
+  top: 90%;
+  left: 45%;
+  text-align: center;
+}
