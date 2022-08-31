@@ -252,3 +252,13 @@ c
 
 ##### Resultado:
 [Desafio 22](https://katianne23.github.io/30diasDeCSS/Desafio-22/)
+
+## Desafio 23:
+#### Criação de icones 3D com animação hover
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
+
+
+##### Resultado:
+[Desafio 23](https://katianne23.github.io/30diasDeCSS/Desafio-23/)
