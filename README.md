@@ -278,8 +278,8 @@ c
 #### Criação de um checkbox animado
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
-- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
-- [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+- [Before](https://www.w3schools.com/cssref/sel_before.asp)
+
 
 
 ##### Resultado:
