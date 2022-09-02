@@ -273,3 +273,14 @@ c
 
 ##### Resultado:
 [Desafio 24](https://katianne23.github.io/30diasDeCSS/Desafio-24/)
+
+## Desafio 25:
+#### Criação de um checkbox animado
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+
+
+##### Resultado:
+[Desafio 25](https://katianne23.github.io/30diasDeCSS/Desafio-25/)
