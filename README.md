@@ -284,3 +284,14 @@ c
 
 ##### Resultado:
 [Desafio 25](https://katianne23.github.io/30diasDeCSS/Desafio-25/)
+
+## Desafio 26:
+#### Criação de um loading hexagonal com efeito
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+
+
+
+##### Resultado:
+[Desafio 26](https://katianne23.github.io/30diasDeCSS/Desafio-26/)
