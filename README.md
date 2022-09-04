@@ -295,3 +295,14 @@ c
 
 ##### Resultado:
 [Desafio 26](https://katianne23.github.io/30diasDeCSS/Desafio-26/)
+
+## Desafio 27:
+#### Criação Interruptor de ativação e desativação da lâmpada usando apenas Html CSS
+##### Aprendizagens:
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [checked](https://www.w3schools.com/cssref/sel_checked.asp)
+
+
+
+##### Resultado:
+[Desafio 27](https://katianne23.github.io/30diasDeCSS/Desafio-27/)
