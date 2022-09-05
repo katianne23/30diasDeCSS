@@ -306,3 +306,13 @@ c
 
 ##### Resultado:
 [Desafio 27](https://katianne23.github.io/30diasDeCSS/Desafio-27/)
+
+## Desafio 28:
+#### Criação de video em um cubo 3D
+##### Aprendizagens:
+- [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+
+
+##### Resultado:
+[Desafio 28](https://katianne23.github.io/30diasDeCSS/Desafio-28/)
