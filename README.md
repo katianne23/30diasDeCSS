@@ -327,3 +327,13 @@ c
 
 ##### Resultado:
 [Desafio 29](https://katianne23.github.io/30diasDeCSS/Desafio-29/)
+
+## Desafio 30:
+#### Criação background com efeitos
+##### Aprendizagens:
+- [Animation ](https://www.w3schools.com/css/css3_animations.asp)
+
+
+
+##### Resultado:
+[Desafio 30](https://katianne23.github.io/30diasDeCSS/Desafio-30/)
