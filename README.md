@@ -4,7 +4,7 @@
 Sugestão de desafios:
 [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS.git).
 
-## Desafio 01:
+## 🎯 Desafio 01:
 #### Criação de ícones de mídias sociais em camadas
 ##### Aprendizagens:
 - Criação de camadas com a tag span
@@ -14,9 +14,11 @@ Sugestão de desafios:
 - [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 
 ##### Resultado:
-[Desafio 01](https://katianne23.github.io/30diasDeCSS/Desafio-01/)
+![desafio-1](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/01.gif)
 
-## Desafio 02:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-01/)
+
+## 🎯 Desafio 02:
 #### Criação de um Loader animado
 ##### Aprendizagens:
 - Utilizar animações
@@ -28,9 +30,11 @@ Sugestão de desafios:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
 
 ##### Resultado:
-[Desafio 02](https://katianne23.github.io/30diasDeCSS/Desafio-02/)
+![desafio-2](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/02.gif)
 
-## Desafio 03:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-02/)
+
+## 🎯 Desafio 03:
 #### Mudança de cor de texto quanto entra em outra div
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -43,9 +47,11 @@ Sugestão de desafios:
 
 
 ##### Resultado:
-[Desafio 03](https://katianne23.github.io/30diasDeCSS/Desafio-03/)
+![desafio-3](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/03.gif)
 
-## Desafio 04:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-03/)
+
+## 🎯 Desafio 04:
 #### Efeito Hover 
 ##### Aprendizagens:
 - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
@@ -56,39 +62,46 @@ Sugestão de desafios:
  
 
 ##### Resultado:
-[Desafio 04](https://katianne23.github.io/30diasDeCSS/Desafio-04/)
+![desafio-4](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/04.gif)
 
-## Desafio 05:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-04/)
+
+## 🎯 Desafio 05:
 #### Efeito Pulsar 
 ##### Aprendizagens:
-c
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp) 
 - [After](https://www.w3schools.com/cssref/sel_after.asp)
 - [Before](https://www.w3schools.com/cssref/sel_before.asp)
 
 ##### Resultado:
-[Desafio 05](https://katianne23.github.io/30diasDeCSS/Desafio-05/)
+![desafio-5](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/05.gif)
 
-## Desafio 06:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-05/)
+
+## 🎯 Desafio 06:
 #### Efeito lightning text
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
 - [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 
 ##### Resultado:
-[Desafio 06](https://katianne23.github.io/30diasDeCSS/Desafio-06/)
+![desafio-6](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/06.gif)
 
-## Desafio 07:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-06/)
+
+## 🎯 Desafio 07:
 #### Preloader Animado
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
 - [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 
 ##### Resultado:
-[Desafio 07](https://katianne23.github.io/30diasDeCSS/Desafio-07/)
+![desafio-7](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/07.gif)
 
-## Desafio 08:
-#### Estrela Piscante ⭐
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-07/)
+
+## 🎯 Desafio 08:
+#### Estrela Piscante 
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
@@ -96,9 +109,11 @@ c
 - [Before](https://www.w3schools.com/cssref/sel_before.asp)
 
 ##### Resultado:
-[Desafio 08](https://katianne23.github.io/30diasDeCSS/Desafio-08/)
+![desafio-8](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/08.gif)
 
-## Desafio 09:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-08/)
+
+## 🎯 Desafio 09:
 #### Pendulo de Newton
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -107,8 +122,10 @@ c
 - [last-child](https://www.w3schools.com/cssref/sel_last-child.asp)
 - [first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)
 
-##### Resultado:
-[Desafio 09](https://katianne23.github.io/30diasDeCSS/Desafio-09/)
+#####  Resultado:
+![desafio-9](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/09.gif)
+
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-09/)
 
 ## Desafio 10:
 #### Animação alternando textos de Saudações! 
@@ -118,9 +135,11 @@ c
 
 
 ##### Resultado:
-[Desafio 10](https://katianne23.github.io/30diasDeCSS/Desafio-10/)
+![desafio-10](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/10.gif)
 
-## Desafio 11:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-10/)
+
+## 🎯 Desafio 11:
 #### Card com efeito de foco no texto, e com animação flutuante.  
 ##### Aprendizagens:
 - [Transições CSS](https://www.w3schools.com/css/css3_transitions.asp)
@@ -128,9 +147,11 @@ c
 
 
 ##### Resultado:
-[Desafio 11](https://katianne23.github.io/30diasDeCSS/Desafio-11/)
+![desafio-11](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/11.gif)
 
-## Desafio 12:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-11/)
+
+## 🎯 Desafio 12:
 #### Animação de texto fantasma em hover 
 ##### Aprendizagens:
 - [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
@@ -139,9 +160,10 @@ c
 
 
 ##### Resultado:
-[Desafio 12](https://katianne23.github.io/30diasDeCSS/Desafio-12/)
+![desafio-12](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/12.gif)
 
-## Desafio 13:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-12/)
+## 🎯 Desafio 13:
 #### Loading com efeitos 
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -149,9 +171,11 @@ c
 
 
 ##### Resultado:
-[Desafio 13](https://katianne23.github.io/30diasDeCSS/Desafio-13/)
+![desafio-13](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/13.gif)
 
-## Desafio 14:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-13/)
+
+## 🎯 Desafio 14:
 #### Background de texto animado! 
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -159,9 +183,11 @@ c
 
 
 ##### Resultado:
-[Desafio 14](https://katianne23.github.io/30diasDeCSS/Desafio-14/)
+![desafio-14](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/14.gif)
 
-## Desafio 15:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-14/)
+
+## 🎯 Desafio 15:
 #### Texto flutuante! 
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -169,9 +195,11 @@ c
 
 
 ##### Resultado:
-[Desafio 15](https://katianne23.github.io/30diasDeCSS/Desafio-15/)
+![desafio-15](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/15.gif)
 
-## Desafio 16:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-15/)
+
+## 🎯 Desafio 16:
 #### Button com efeito hover! 
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -182,9 +210,11 @@ c
 
 
 ##### Resultado:
-[Desafio 16](https://katianne23.github.io/30diasDeCSS/Desafio-16/)
+![desafio-16](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/16.gif)
 
-## Desafio 17:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-16/)
+
+## 🎯 Desafio 17:
 #### Loader Animado estilo Spinner! 
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -195,10 +225,12 @@ c
 
 
 ##### Resultado:
-[Desafio 17](https://katianne23.github.io/30diasDeCSS/Desafio-17/)
+![desafio-17](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/17.gif)
+
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-17/)
 
 
-## Desafio 18:
+## 🎯 Desafio 18:
 #### Texto com efeito esfumaçado 
 ##### Aprendizagens:
 - [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
@@ -208,9 +240,11 @@ c
 
 
 ##### Resultado:
-[Desafio 18](https://katianne23.github.io/30diasDeCSS/Desafio-18/)
+![desafio-18](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/18.gif)
 
-## Desafio 19:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-18/)
+
+## 🎯 Desafio 19:
 #### Background animado com efeito estrelado
 ##### Aprendizagens:
 - [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
@@ -220,9 +254,11 @@ c
 
 
 ##### Resultado:
-[Desafio 19](https://katianne23.github.io/30diasDeCSS/Desafio-19/)
+![desafio-19](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/19.gif)
 
-## Desafio 20:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-19/)
+
+## 🎯 Desafio 20:
 #### Cubo em 3D
 ##### Aprendizagens:
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
@@ -230,9 +266,11 @@ c
 
 
 ##### Resultado:
-[Desafio 20](https://katianne23.github.io/30diasDeCSS/Desafio-20/)
+![desafio-20](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/20.gif)
 
-## Desafio 21:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-20/)
+
+## 🎯 Desafio 21:
 #### Criação de uma bola com animação de quicar
 ##### Aprendizagens:
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
@@ -240,9 +278,11 @@ c
 
 
 ##### Resultado:
-[Desafio 21](https://katianne23.github.io/30diasDeCSS/Desafio-21/)
+![desafio-21](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/21.gif)
 
-## Desafio 22:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-21/)
+
+## 🎯 Desafio 22:
 #### Criação de circulos com efeito hover
 ##### Aprendizagens:
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
@@ -251,9 +291,11 @@ c
 
 
 ##### Resultado:
-[Desafio 22](https://katianne23.github.io/30diasDeCSS/Desafio-22/)
+![desafio-22](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/22.gif)
 
-## Desafio 23:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-22/)
+
+## 🎯 Desafio 23:
 #### Criação de icones 3D com animação hover
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -261,9 +303,11 @@ c
 
 
 ##### Resultado:
-[Desafio 23](https://katianne23.github.io/30diasDeCSS/Desafio-23/)
+![desafio-23](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/23.gif)
 
-## Desafio 24:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-23/)
+
+## 🎯 Desafio 24:
 #### Criação de Preloader em 3D animado
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -272,9 +316,11 @@ c
 
 
 ##### Resultado:
-[Desafio 24](https://katianne23.github.io/30diasDeCSS/Desafio-24/)
+![desafio-24](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/24.gif)
 
-## Desafio 25:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-24/)
+
+## 🎯 Desafio 25:
 #### Criação de um checkbox animado
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -283,9 +329,11 @@ c
 
 
 ##### Resultado:
-[Desafio 25](https://katianne23.github.io/30diasDeCSS/Desafio-25/)
+![desafio-25](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/25.gif)
 
-## Desafio 26:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-25/)
+
+## 🎯 Desafio 26:
 #### Criação de um loading hexagonal com efeito
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -294,9 +342,11 @@ c
 
 
 ##### Resultado:
-[Desafio 26](https://katianne23.github.io/30diasDeCSS/Desafio-26/)
+![desafio-26](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/26.gif)
 
-## Desafio 27:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-26/)
+
+## 🎯 Desafio 27:
 #### Criação Interruptor de ativação e desativação da lâmpada usando apenas Html CSS
 ##### Aprendizagens:
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
@@ -305,9 +355,11 @@ c
 
 
 ##### Resultado:
-[Desafio 27](https://katianne23.github.io/30diasDeCSS/Desafio-27/)
+![desafio-27](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/27.gif)
 
-## Desafio 28:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-27/)
+
+## 🎯 Desafio 28:
 #### Criação de video em um cubo 3D
 ##### Aprendizagens:
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
@@ -315,9 +367,11 @@ c
 
 
 ##### Resultado:
-[Desafio 28](https://katianne23.github.io/30diasDeCSS/Desafio-28/)
+![desafio-28](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/28.gif)
 
-## Desafio 29:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-28/)
+
+## 🎯 Desafio 29:
 #### Criação de um Menu Popup
 ##### Aprendizagens:
 - [Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
@@ -326,9 +380,11 @@ c
 
 
 ##### Resultado:
-[Desafio 29](https://katianne23.github.io/30diasDeCSS/Desafio-29/)
+![desafio-29](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/29.gif)
 
-## Desafio 30:
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-29/)
+
+## 🎯 Desafio 30:
 #### Criação background com efeitos
 ##### Aprendizagens:
 - [Animation ](https://www.w3schools.com/css/css3_animations.asp)
@@ -336,4 +392,14 @@ c
 
 
 ##### Resultado:
-[Desafio 30](https://katianne23.github.io/30diasDeCSS/Desafio-30/)
+![desafio-30](https://github.com/katianne23/30diasDeCSS/blob/main/Videos/30.gif)
+
+[Clique aqui para ver o resultado](https://katianne23.github.io/30diasDeCSS/Desafio-30/)
+
+## ♥ Contato
+
+ <a href="https://instagram.com/katianne.araujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://t.me/Katiannearaujo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="https://discord.gg/jSpXMenR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:katianne40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/katianne-ara%C3%BAjo-dos-santos-a7ab44204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
